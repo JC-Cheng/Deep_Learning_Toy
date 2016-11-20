@@ -1,4 +1,3 @@
-Deep Learning Basic
+# Deep Learning Basic
 
-Materials from Udemy: Deep Learning with Python
-See https://www.udemy.com/deep-learning-with-python
+Modified materials based on the Udemy course: [Deep Learning with Python](https://www.udemy.com/deep-learning-with-python) (by Eder Santana)
