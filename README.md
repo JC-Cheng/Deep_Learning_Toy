@@ -1,4 +1,5 @@
 # Deep Learning Basic
+Deep Learning Playground
 
 - Modified codes based on the Udemy course: [Deep Learning with Python](https://www.udemy.com/deep-learning-with-python) (by Eder Santana)
     required package: theano, keras, sklearn-theano
